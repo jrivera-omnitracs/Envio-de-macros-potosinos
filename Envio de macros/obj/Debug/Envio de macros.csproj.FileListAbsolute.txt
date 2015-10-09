@@ -1,0 +1,10 @@
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\bin\Debug\Envio de macros.exe.config
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\bin\Debug\Envio de macros.exe
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\bin\Debug\Envio de macros.pdb
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio de macros.csprojResolveAssemblyReference.cache
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio_de_macros.Form1.resources
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio_de_macros.Properties.Resources.resources
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio de macros.csproj.GenerateResource.Cache
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio de macros.exe
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio de macros.pdb
+C:\Users\Portatil Stock-15\Documents\Visual Studio 2015\Samples\SeguimientoAreaComercial\Envio de macros\Envio de macros\obj\Debug\Envio_de_macros.Macros.Macro43.resources
