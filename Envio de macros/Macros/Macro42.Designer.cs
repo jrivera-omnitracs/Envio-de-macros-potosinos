@@ -31,67 +31,67 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtRemolque = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtOrigenLugar = new System.Windows.Forms.TextBox();
+            this.txtOrigenCliente = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.txtOrigenDomicilio1 = new System.Windows.Forms.TextBox();
+            this.txtOrigenDomicilio2 = new System.Windows.Forms.TextBox();
+            this.txtOrigenDomicilio3 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.txtOrigenFecha1 = new System.Windows.Forms.TextBox();
+            this.txtOrigenFecha3 = new System.Windows.Forms.TextBox();
+            this.txtOrigenFecha2 = new System.Windows.Forms.TextBox();
+            this.txtOrigenHora1 = new System.Windows.Forms.TextBox();
+            this.txtOrigenHora2 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.txtEscalaLugar1 = new System.Windows.Forms.TextBox();
+            this.txtEscalaLugar2 = new System.Windows.Forms.TextBox();
+            this.txtEscalaLugar3 = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
-            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.txtDestinoLugar = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.txtDestinoCliente = new System.Windows.Forms.TextBox();
             this.label18 = new System.Windows.Forms.Label();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.txtDestinoDomicilio1 = new System.Windows.Forms.TextBox();
+            this.txtDestinoDomicilio3 = new System.Windows.Forms.TextBox();
+            this.txtDestinoDomicilio2 = new System.Windows.Forms.TextBox();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.txtDestinoHora2 = new System.Windows.Forms.TextBox();
+            this.txtDestinoHora1 = new System.Windows.Forms.TextBox();
+            this.txtDestinoFecha2 = new System.Windows.Forms.TextBox();
+            this.txtDestinoFecha3 = new System.Windows.Forms.TextBox();
+            this.txtDestinoFecha1 = new System.Windows.Forms.TextBox();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.txtDestinoTiempo2 = new System.Windows.Forms.TextBox();
+            this.txtDestinoTiempo1 = new System.Windows.Forms.TextBox();
             this.label26 = new System.Windows.Forms.Label();
-            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.txtDestinoRuta1 = new System.Windows.Forms.TextBox();
             this.label27 = new System.Windows.Forms.Label();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.txtDestinoRuta2 = new System.Windows.Forms.TextBox();
+            this.txtDestinoComentarios3 = new System.Windows.Forms.TextBox();
+            this.txtDestinoComentarios2 = new System.Windows.Forms.TextBox();
+            this.txtDestinoComentarios1 = new System.Windows.Forms.TextBox();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.txtEnvía = new System.Windows.Forms.TextBox();
+            this.btnEnviar = new System.Windows.Forms.Button();
             this.label32 = new System.Windows.Forms.Label();
             this.txtDestinatarios = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
@@ -125,13 +125,13 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Remolque";
             // 
-            // textBox1
+            // txtRemolque
             // 
-            this.textBox1.Location = new System.Drawing.Point(74, 121);
-            this.textBox1.MaxLength = 8;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(220, 20);
-            this.textBox1.TabIndex = 3;
+            this.txtRemolque.Location = new System.Drawing.Point(74, 121);
+            this.txtRemolque.MaxLength = 8;
+            this.txtRemolque.Name = "txtRemolque";
+            this.txtRemolque.Size = new System.Drawing.Size(220, 20);
+            this.txtRemolque.TabIndex = 3;
             // 
             // label4
             // 
@@ -151,21 +151,21 @@
             this.label5.TabIndex = 5;
             this.label5.Text = "Lugar";
             // 
-            // textBox2
+            // txtOrigenLugar
             // 
-            this.textBox2.Location = new System.Drawing.Point(74, 167);
-            this.textBox2.MaxLength = 25;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(220, 20);
-            this.textBox2.TabIndex = 6;
+            this.txtOrigenLugar.Location = new System.Drawing.Point(74, 167);
+            this.txtOrigenLugar.MaxLength = 25;
+            this.txtOrigenLugar.Name = "txtOrigenLugar";
+            this.txtOrigenLugar.Size = new System.Drawing.Size(220, 20);
+            this.txtOrigenLugar.TabIndex = 6;
             // 
-            // textBox3
+            // txtOrigenCliente
             // 
-            this.textBox3.Location = new System.Drawing.Point(74, 194);
-            this.textBox3.MaxLength = 25;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(220, 20);
-            this.textBox3.TabIndex = 7;
+            this.txtOrigenCliente.Location = new System.Drawing.Point(74, 194);
+            this.txtOrigenCliente.MaxLength = 25;
+            this.txtOrigenCliente.Name = "txtOrigenCliente";
+            this.txtOrigenCliente.Size = new System.Drawing.Size(220, 20);
+            this.txtOrigenCliente.TabIndex = 7;
             // 
             // label6
             // 
@@ -185,29 +185,29 @@
             this.label7.TabIndex = 9;
             this.label7.Text = "Domicilio";
             // 
-            // textBox4
+            // txtOrigenDomicilio1
             // 
-            this.textBox4.Location = new System.Drawing.Point(74, 221);
-            this.textBox4.MaxLength = 25;
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(220, 20);
-            this.textBox4.TabIndex = 10;
+            this.txtOrigenDomicilio1.Location = new System.Drawing.Point(74, 221);
+            this.txtOrigenDomicilio1.MaxLength = 25;
+            this.txtOrigenDomicilio1.Name = "txtOrigenDomicilio1";
+            this.txtOrigenDomicilio1.Size = new System.Drawing.Size(220, 20);
+            this.txtOrigenDomicilio1.TabIndex = 10;
             // 
-            // textBox5
+            // txtOrigenDomicilio2
             // 
-            this.textBox5.Location = new System.Drawing.Point(74, 248);
-            this.textBox5.MaxLength = 37;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(220, 20);
-            this.textBox5.TabIndex = 11;
+            this.txtOrigenDomicilio2.Location = new System.Drawing.Point(74, 248);
+            this.txtOrigenDomicilio2.MaxLength = 37;
+            this.txtOrigenDomicilio2.Name = "txtOrigenDomicilio2";
+            this.txtOrigenDomicilio2.Size = new System.Drawing.Size(220, 20);
+            this.txtOrigenDomicilio2.TabIndex = 11;
             // 
-            // textBox6
+            // txtOrigenDomicilio3
             // 
-            this.textBox6.Location = new System.Drawing.Point(74, 275);
-            this.textBox6.MaxLength = 37;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(220, 20);
-            this.textBox6.TabIndex = 12;
+            this.txtOrigenDomicilio3.Location = new System.Drawing.Point(74, 275);
+            this.txtOrigenDomicilio3.MaxLength = 37;
+            this.txtOrigenDomicilio3.Name = "txtOrigenDomicilio3";
+            this.txtOrigenDomicilio3.Size = new System.Drawing.Size(220, 20);
+            this.txtOrigenDomicilio3.TabIndex = 12;
             // 
             // label8
             // 
@@ -218,45 +218,45 @@
             this.label8.TabIndex = 13;
             this.label8.Text = "Cita salida fecha";
             // 
-            // textBox7
+            // txtOrigenFecha1
             // 
-            this.textBox7.Location = new System.Drawing.Point(101, 304);
-            this.textBox7.MaxLength = 2;
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(20, 20);
-            this.textBox7.TabIndex = 14;
+            this.txtOrigenFecha1.Location = new System.Drawing.Point(101, 304);
+            this.txtOrigenFecha1.MaxLength = 2;
+            this.txtOrigenFecha1.Name = "txtOrigenFecha1";
+            this.txtOrigenFecha1.Size = new System.Drawing.Size(20, 20);
+            this.txtOrigenFecha1.TabIndex = 14;
             // 
-            // textBox8
+            // txtOrigenFecha3
             // 
-            this.textBox8.Location = new System.Drawing.Point(171, 304);
-            this.textBox8.MaxLength = 2;
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(20, 20);
-            this.textBox8.TabIndex = 15;
+            this.txtOrigenFecha3.Location = new System.Drawing.Point(171, 304);
+            this.txtOrigenFecha3.MaxLength = 2;
+            this.txtOrigenFecha3.Name = "txtOrigenFecha3";
+            this.txtOrigenFecha3.Size = new System.Drawing.Size(20, 20);
+            this.txtOrigenFecha3.TabIndex = 15;
             // 
-            // textBox9
+            // txtOrigenFecha2
             // 
-            this.textBox9.Location = new System.Drawing.Point(136, 304);
-            this.textBox9.MaxLength = 2;
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(20, 20);
-            this.textBox9.TabIndex = 16;
+            this.txtOrigenFecha2.Location = new System.Drawing.Point(136, 304);
+            this.txtOrigenFecha2.MaxLength = 2;
+            this.txtOrigenFecha2.Name = "txtOrigenFecha2";
+            this.txtOrigenFecha2.Size = new System.Drawing.Size(20, 20);
+            this.txtOrigenFecha2.TabIndex = 16;
             // 
-            // textBox10
+            // txtOrigenHora1
             // 
-            this.textBox10.Location = new System.Drawing.Point(101, 330);
-            this.textBox10.MaxLength = 2;
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(20, 20);
-            this.textBox10.TabIndex = 17;
+            this.txtOrigenHora1.Location = new System.Drawing.Point(101, 330);
+            this.txtOrigenHora1.MaxLength = 2;
+            this.txtOrigenHora1.Name = "txtOrigenHora1";
+            this.txtOrigenHora1.Size = new System.Drawing.Size(20, 20);
+            this.txtOrigenHora1.TabIndex = 17;
             // 
-            // textBox11
+            // txtOrigenHora2
             // 
-            this.textBox11.Location = new System.Drawing.Point(136, 330);
-            this.textBox11.MaxLength = 2;
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(20, 20);
-            this.textBox11.TabIndex = 18;
+            this.txtOrigenHora2.Location = new System.Drawing.Point(136, 330);
+            this.txtOrigenHora2.MaxLength = 2;
+            this.txtOrigenHora2.Name = "txtOrigenHora2";
+            this.txtOrigenHora2.Size = new System.Drawing.Size(20, 20);
+            this.txtOrigenHora2.TabIndex = 18;
             // 
             // label9
             // 
@@ -312,29 +312,29 @@
             this.label14.TabIndex = 24;
             this.label14.Text = "Lugar";
             // 
-            // textBox12
+            // txtEscalaLugar1
             // 
-            this.textBox12.Location = new System.Drawing.Point(74, 378);
-            this.textBox12.MaxLength = 30;
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(220, 20);
-            this.textBox12.TabIndex = 25;
+            this.txtEscalaLugar1.Location = new System.Drawing.Point(74, 378);
+            this.txtEscalaLugar1.MaxLength = 30;
+            this.txtEscalaLugar1.Name = "txtEscalaLugar1";
+            this.txtEscalaLugar1.Size = new System.Drawing.Size(220, 20);
+            this.txtEscalaLugar1.TabIndex = 25;
             // 
-            // textBox13
+            // txtEscalaLugar2
             // 
-            this.textBox13.Location = new System.Drawing.Point(74, 404);
-            this.textBox13.MaxLength = 37;
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(220, 20);
-            this.textBox13.TabIndex = 26;
+            this.txtEscalaLugar2.Location = new System.Drawing.Point(74, 404);
+            this.txtEscalaLugar2.MaxLength = 37;
+            this.txtEscalaLugar2.Name = "txtEscalaLugar2";
+            this.txtEscalaLugar2.Size = new System.Drawing.Size(220, 20);
+            this.txtEscalaLugar2.TabIndex = 26;
             // 
-            // textBox14
+            // txtEscalaLugar3
             // 
-            this.textBox14.Location = new System.Drawing.Point(74, 430);
-            this.textBox14.MaxLength = 37;
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(220, 20);
-            this.textBox14.TabIndex = 27;
+            this.txtEscalaLugar3.Location = new System.Drawing.Point(74, 430);
+            this.txtEscalaLugar3.MaxLength = 37;
+            this.txtEscalaLugar3.Name = "txtEscalaLugar3";
+            this.txtEscalaLugar3.Size = new System.Drawing.Size(220, 20);
+            this.txtEscalaLugar3.TabIndex = 27;
             // 
             // label15
             // 
@@ -345,13 +345,13 @@
             this.label15.TabIndex = 28;
             this.label15.Text = "*** DESTINO ***";
             // 
-            // textBox15
+            // txtDestinoLugar
             // 
-            this.textBox15.Location = new System.Drawing.Point(74, 478);
-            this.textBox15.MaxLength = 30;
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(220, 20);
-            this.textBox15.TabIndex = 30;
+            this.txtDestinoLugar.Location = new System.Drawing.Point(74, 478);
+            this.txtDestinoLugar.MaxLength = 30;
+            this.txtDestinoLugar.Name = "txtDestinoLugar";
+            this.txtDestinoLugar.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoLugar.TabIndex = 30;
             // 
             // label16
             // 
@@ -371,13 +371,13 @@
             this.label17.TabIndex = 31;
             this.label17.Text = "Cliente";
             // 
-            // textBox16
+            // txtDestinoCliente
             // 
-            this.textBox16.Location = new System.Drawing.Point(74, 504);
-            this.textBox16.MaxLength = 30;
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(220, 20);
-            this.textBox16.TabIndex = 32;
+            this.txtDestinoCliente.Location = new System.Drawing.Point(74, 504);
+            this.txtDestinoCliente.MaxLength = 30;
+            this.txtDestinoCliente.Name = "txtDestinoCliente";
+            this.txtDestinoCliente.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoCliente.TabIndex = 32;
             // 
             // label18
             // 
@@ -388,29 +388,29 @@
             this.label18.TabIndex = 33;
             this.label18.Text = "Domicilio";
             // 
-            // textBox17
+            // txtDestinoDomicilio1
             // 
-            this.textBox17.Location = new System.Drawing.Point(74, 531);
-            this.textBox17.MaxLength = 25;
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(220, 20);
-            this.textBox17.TabIndex = 25;
+            this.txtDestinoDomicilio1.Location = new System.Drawing.Point(74, 531);
+            this.txtDestinoDomicilio1.MaxLength = 25;
+            this.txtDestinoDomicilio1.Name = "txtDestinoDomicilio1";
+            this.txtDestinoDomicilio1.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoDomicilio1.TabIndex = 25;
             // 
-            // textBox18
+            // txtDestinoDomicilio3
             // 
-            this.textBox18.Location = new System.Drawing.Point(74, 583);
-            this.textBox18.MaxLength = 37;
-            this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(220, 20);
-            this.textBox18.TabIndex = 35;
+            this.txtDestinoDomicilio3.Location = new System.Drawing.Point(74, 583);
+            this.txtDestinoDomicilio3.MaxLength = 37;
+            this.txtDestinoDomicilio3.Name = "txtDestinoDomicilio3";
+            this.txtDestinoDomicilio3.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoDomicilio3.TabIndex = 35;
             // 
-            // textBox19
+            // txtDestinoDomicilio2
             // 
-            this.textBox19.Location = new System.Drawing.Point(74, 557);
-            this.textBox19.MaxLength = 37;
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(220, 20);
-            this.textBox19.TabIndex = 34;
+            this.txtDestinoDomicilio2.Location = new System.Drawing.Point(74, 557);
+            this.txtDestinoDomicilio2.MaxLength = 37;
+            this.txtDestinoDomicilio2.Name = "txtDestinoDomicilio2";
+            this.txtDestinoDomicilio2.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoDomicilio2.TabIndex = 34;
             // 
             // label19
             // 
@@ -448,45 +448,45 @@
             this.label22.TabIndex = 42;
             this.label22.Text = "/";
             // 
-            // textBox20
+            // txtDestinoHora2
             // 
-            this.textBox20.Location = new System.Drawing.Point(144, 642);
-            this.textBox20.MaxLength = 2;
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(20, 20);
-            this.textBox20.TabIndex = 41;
+            this.txtDestinoHora2.Location = new System.Drawing.Point(144, 642);
+            this.txtDestinoHora2.MaxLength = 2;
+            this.txtDestinoHora2.Name = "txtDestinoHora2";
+            this.txtDestinoHora2.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoHora2.TabIndex = 41;
             // 
-            // textBox21
+            // txtDestinoHora1
             // 
-            this.textBox21.Location = new System.Drawing.Point(109, 642);
-            this.textBox21.MaxLength = 2;
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(20, 20);
-            this.textBox21.TabIndex = 40;
+            this.txtDestinoHora1.Location = new System.Drawing.Point(109, 642);
+            this.txtDestinoHora1.MaxLength = 2;
+            this.txtDestinoHora1.Name = "txtDestinoHora1";
+            this.txtDestinoHora1.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoHora1.TabIndex = 40;
             // 
-            // textBox22
+            // txtDestinoFecha2
             // 
-            this.textBox22.Location = new System.Drawing.Point(144, 616);
-            this.textBox22.MaxLength = 2;
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(20, 20);
-            this.textBox22.TabIndex = 39;
+            this.txtDestinoFecha2.Location = new System.Drawing.Point(144, 616);
+            this.txtDestinoFecha2.MaxLength = 2;
+            this.txtDestinoFecha2.Name = "txtDestinoFecha2";
+            this.txtDestinoFecha2.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoFecha2.TabIndex = 39;
             // 
-            // textBox23
+            // txtDestinoFecha3
             // 
-            this.textBox23.Location = new System.Drawing.Point(179, 616);
-            this.textBox23.MaxLength = 2;
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(20, 20);
-            this.textBox23.TabIndex = 38;
+            this.txtDestinoFecha3.Location = new System.Drawing.Point(179, 616);
+            this.txtDestinoFecha3.MaxLength = 2;
+            this.txtDestinoFecha3.Name = "txtDestinoFecha3";
+            this.txtDestinoFecha3.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoFecha3.TabIndex = 38;
             // 
-            // textBox24
+            // txtDestinoFecha1
             // 
-            this.textBox24.Location = new System.Drawing.Point(109, 616);
-            this.textBox24.MaxLength = 2;
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(20, 20);
-            this.textBox24.TabIndex = 37;
+            this.txtDestinoFecha1.Location = new System.Drawing.Point(109, 616);
+            this.txtDestinoFecha1.MaxLength = 2;
+            this.txtDestinoFecha1.Name = "txtDestinoFecha1";
+            this.txtDestinoFecha1.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoFecha1.TabIndex = 37;
             // 
             // label23
             // 
@@ -515,21 +515,21 @@
             this.label25.TabIndex = 48;
             this.label25.Text = ":";
             // 
-            // textBox25
+            // txtDestinoTiempo2
             // 
-            this.textBox25.Location = new System.Drawing.Point(144, 670);
-            this.textBox25.MaxLength = 2;
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(20, 20);
-            this.textBox25.TabIndex = 47;
+            this.txtDestinoTiempo2.Location = new System.Drawing.Point(144, 670);
+            this.txtDestinoTiempo2.MaxLength = 2;
+            this.txtDestinoTiempo2.Name = "txtDestinoTiempo2";
+            this.txtDestinoTiempo2.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoTiempo2.TabIndex = 47;
             // 
-            // textBox26
+            // txtDestinoTiempo1
             // 
-            this.textBox26.Location = new System.Drawing.Point(109, 670);
-            this.textBox26.MaxLength = 2;
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(20, 20);
-            this.textBox26.TabIndex = 46;
+            this.txtDestinoTiempo1.Location = new System.Drawing.Point(109, 670);
+            this.txtDestinoTiempo1.MaxLength = 2;
+            this.txtDestinoTiempo1.Name = "txtDestinoTiempo1";
+            this.txtDestinoTiempo1.Size = new System.Drawing.Size(20, 20);
+            this.txtDestinoTiempo1.TabIndex = 46;
             // 
             // label26
             // 
@@ -540,13 +540,13 @@
             this.label26.TabIndex = 50;
             this.label26.Text = "hrs";
             // 
-            // textBox27
+            // txtDestinoRuta1
             // 
-            this.textBox27.Location = new System.Drawing.Point(74, 697);
-            this.textBox27.MaxLength = 30;
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(220, 20);
-            this.textBox27.TabIndex = 52;
+            this.txtDestinoRuta1.Location = new System.Drawing.Point(74, 697);
+            this.txtDestinoRuta1.MaxLength = 30;
+            this.txtDestinoRuta1.Name = "txtDestinoRuta1";
+            this.txtDestinoRuta1.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoRuta1.TabIndex = 52;
             // 
             // label27
             // 
@@ -557,37 +557,37 @@
             this.label27.TabIndex = 51;
             this.label27.Text = "Ruta";
             // 
-            // textBox28
+            // txtDestinoRuta2
             // 
-            this.textBox28.Location = new System.Drawing.Point(74, 723);
-            this.textBox28.MaxLength = 30;
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(220, 20);
-            this.textBox28.TabIndex = 53;
+            this.txtDestinoRuta2.Location = new System.Drawing.Point(74, 723);
+            this.txtDestinoRuta2.MaxLength = 30;
+            this.txtDestinoRuta2.Name = "txtDestinoRuta2";
+            this.txtDestinoRuta2.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoRuta2.TabIndex = 53;
             // 
-            // textBox29
+            // txtDestinoComentarios3
             // 
-            this.textBox29.Location = new System.Drawing.Point(74, 802);
-            this.textBox29.MaxLength = 37;
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(220, 20);
-            this.textBox29.TabIndex = 57;
+            this.txtDestinoComentarios3.Location = new System.Drawing.Point(74, 802);
+            this.txtDestinoComentarios3.MaxLength = 37;
+            this.txtDestinoComentarios3.Name = "txtDestinoComentarios3";
+            this.txtDestinoComentarios3.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoComentarios3.TabIndex = 57;
             // 
-            // textBox30
+            // txtDestinoComentarios2
             // 
-            this.textBox30.Location = new System.Drawing.Point(74, 776);
-            this.textBox30.MaxLength = 37;
-            this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(220, 20);
-            this.textBox30.TabIndex = 56;
+            this.txtDestinoComentarios2.Location = new System.Drawing.Point(74, 776);
+            this.txtDestinoComentarios2.MaxLength = 37;
+            this.txtDestinoComentarios2.Name = "txtDestinoComentarios2";
+            this.txtDestinoComentarios2.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoComentarios2.TabIndex = 56;
             // 
-            // textBox31
+            // txtDestinoComentarios1
             // 
-            this.textBox31.Location = new System.Drawing.Point(74, 750);
-            this.textBox31.MaxLength = 25;
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(220, 20);
-            this.textBox31.TabIndex = 54;
+            this.txtDestinoComentarios1.Location = new System.Drawing.Point(74, 750);
+            this.txtDestinoComentarios1.MaxLength = 25;
+            this.txtDestinoComentarios1.Name = "txtDestinoComentarios1";
+            this.txtDestinoComentarios1.Size = new System.Drawing.Size(220, 20);
+            this.txtDestinoComentarios1.TabIndex = 54;
             // 
             // label28
             // 
@@ -625,23 +625,24 @@
             this.label31.TabIndex = 60;
             this.label31.Text = "Envía";
             // 
-            // textBox32
+            // txtEnvía
             // 
-            this.textBox32.Location = new System.Drawing.Point(74, 868);
-            this.textBox32.MaxLength = 30;
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(220, 20);
-            this.textBox32.TabIndex = 61;
+            this.txtEnvía.Location = new System.Drawing.Point(74, 868);
+            this.txtEnvía.MaxLength = 30;
+            this.txtEnvía.Name = "txtEnvía";
+            this.txtEnvía.Size = new System.Drawing.Size(220, 20);
+            this.txtEnvía.TabIndex = 61;
             // 
-            // button1
+            // btnEnviar
             // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(314, 903);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 62;
-            this.button1.Text = "Enviar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnEnviar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnEnviar.Location = new System.Drawing.Point(331, 893);
+            this.btnEnviar.Name = "btnEnviar";
+            this.btnEnviar.Size = new System.Drawing.Size(75, 23);
+            this.btnEnviar.TabIndex = 62;
+            this.btnEnviar.Text = "Enviar";
+            this.btnEnviar.UseVisualStyleBackColor = true;
+            this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
             // label32
             // 
@@ -650,7 +651,7 @@
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(55, 13);
             this.label32.TabIndex = 66;
-            this.label32.Text = "Macro: 43";
+            this.label32.Text = "Macro: 42";
             // 
             // txtDestinatarios
             // 
@@ -691,67 +692,67 @@
             this.Controls.Add(this.txtDestinatarios);
             this.Controls.Add(this.label33);
             this.Controls.Add(this.label34);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox32);
+            this.Controls.Add(this.btnEnviar);
+            this.Controls.Add(this.txtEnvía);
             this.Controls.Add(this.label31);
             this.Controls.Add(this.label30);
             this.Controls.Add(this.label29);
-            this.Controls.Add(this.textBox29);
-            this.Controls.Add(this.textBox30);
-            this.Controls.Add(this.textBox31);
+            this.Controls.Add(this.txtDestinoComentarios3);
+            this.Controls.Add(this.txtDestinoComentarios2);
+            this.Controls.Add(this.txtDestinoComentarios1);
             this.Controls.Add(this.label28);
-            this.Controls.Add(this.textBox28);
-            this.Controls.Add(this.textBox27);
+            this.Controls.Add(this.txtDestinoRuta2);
+            this.Controls.Add(this.txtDestinoRuta1);
             this.Controls.Add(this.label27);
             this.Controls.Add(this.label26);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label25);
-            this.Controls.Add(this.textBox25);
-            this.Controls.Add(this.textBox26);
+            this.Controls.Add(this.txtDestinoTiempo2);
+            this.Controls.Add(this.txtDestinoTiempo1);
             this.Controls.Add(this.label19);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.label21);
             this.Controls.Add(this.label22);
-            this.Controls.Add(this.textBox20);
-            this.Controls.Add(this.textBox21);
-            this.Controls.Add(this.textBox22);
-            this.Controls.Add(this.textBox23);
-            this.Controls.Add(this.textBox24);
+            this.Controls.Add(this.txtDestinoHora2);
+            this.Controls.Add(this.txtDestinoHora1);
+            this.Controls.Add(this.txtDestinoFecha2);
+            this.Controls.Add(this.txtDestinoFecha3);
+            this.Controls.Add(this.txtDestinoFecha1);
             this.Controls.Add(this.label23);
-            this.Controls.Add(this.textBox18);
-            this.Controls.Add(this.textBox19);
-            this.Controls.Add(this.textBox17);
+            this.Controls.Add(this.txtDestinoDomicilio3);
+            this.Controls.Add(this.txtDestinoDomicilio2);
+            this.Controls.Add(this.txtDestinoDomicilio1);
             this.Controls.Add(this.label18);
-            this.Controls.Add(this.textBox16);
+            this.Controls.Add(this.txtDestinoCliente);
             this.Controls.Add(this.label17);
-            this.Controls.Add(this.textBox15);
+            this.Controls.Add(this.txtDestinoLugar);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.textBox14);
-            this.Controls.Add(this.textBox13);
-            this.Controls.Add(this.textBox12);
+            this.Controls.Add(this.txtEscalaLugar3);
+            this.Controls.Add(this.txtEscalaLugar2);
+            this.Controls.Add(this.txtEscalaLugar1);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.textBox11);
-            this.Controls.Add(this.textBox10);
-            this.Controls.Add(this.textBox9);
-            this.Controls.Add(this.textBox8);
-            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.txtOrigenHora2);
+            this.Controls.Add(this.txtOrigenHora1);
+            this.Controls.Add(this.txtOrigenFecha2);
+            this.Controls.Add(this.txtOrigenFecha3);
+            this.Controls.Add(this.txtOrigenFecha1);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.txtOrigenDomicilio3);
+            this.Controls.Add(this.txtOrigenDomicilio2);
+            this.Controls.Add(this.txtOrigenDomicilio1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtOrigenCliente);
+            this.Controls.Add(this.txtOrigenLugar);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtRemolque);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -767,67 +768,67 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtRemolque;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtOrigenLugar;
+        private System.Windows.Forms.TextBox txtOrigenCliente;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtOrigenDomicilio1;
+        private System.Windows.Forms.TextBox txtOrigenDomicilio2;
+        private System.Windows.Forms.TextBox txtOrigenDomicilio3;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.TextBox txtOrigenFecha1;
+        private System.Windows.Forms.TextBox txtOrigenFecha3;
+        private System.Windows.Forms.TextBox txtOrigenFecha2;
+        private System.Windows.Forms.TextBox txtOrigenHora1;
+        private System.Windows.Forms.TextBox txtOrigenHora2;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox txtEscalaLugar1;
+        private System.Windows.Forms.TextBox txtEscalaLugar2;
+        private System.Windows.Forms.TextBox txtEscalaLugar3;
         private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.TextBox txtDestinoLugar;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.TextBox textBox16;
+        private System.Windows.Forms.TextBox txtDestinoCliente;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.TextBox textBox17;
-        private System.Windows.Forms.TextBox textBox18;
-        private System.Windows.Forms.TextBox textBox19;
+        private System.Windows.Forms.TextBox txtDestinoDomicilio1;
+        private System.Windows.Forms.TextBox txtDestinoDomicilio3;
+        private System.Windows.Forms.TextBox txtDestinoDomicilio2;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.TextBox textBox20;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.TextBox textBox22;
-        private System.Windows.Forms.TextBox textBox23;
-        private System.Windows.Forms.TextBox textBox24;
+        private System.Windows.Forms.TextBox txtDestinoHora2;
+        private System.Windows.Forms.TextBox txtDestinoHora1;
+        private System.Windows.Forms.TextBox txtDestinoFecha2;
+        private System.Windows.Forms.TextBox txtDestinoFecha3;
+        private System.Windows.Forms.TextBox txtDestinoFecha1;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.TextBox textBox25;
-        private System.Windows.Forms.TextBox textBox26;
+        private System.Windows.Forms.TextBox txtDestinoTiempo2;
+        private System.Windows.Forms.TextBox txtDestinoTiempo1;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.TextBox textBox27;
+        private System.Windows.Forms.TextBox txtDestinoRuta1;
         private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.TextBox textBox28;
-        private System.Windows.Forms.TextBox textBox29;
-        private System.Windows.Forms.TextBox textBox30;
-        private System.Windows.Forms.TextBox textBox31;
+        private System.Windows.Forms.TextBox txtDestinoRuta2;
+        private System.Windows.Forms.TextBox txtDestinoComentarios3;
+        private System.Windows.Forms.TextBox txtDestinoComentarios2;
+        private System.Windows.Forms.TextBox txtDestinoComentarios1;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.TextBox textBox32;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtEnvía;
+        private System.Windows.Forms.Button btnEnviar;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.TextBox txtDestinatarios;
         private System.Windows.Forms.Label label33;
