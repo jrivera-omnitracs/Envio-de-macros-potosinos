@@ -51,18 +51,18 @@ namespace Envio_de_macros
         {
             if(cbMacros.SelectedIndex == 1)
             {
-                Macros.Macro43 myMacro = new Macros.Macro43(listaEconomicos);
+                Macros.Macro42 myMacro42 = new Macros.Macro42(listaEconomicos);
                 this.Hide();
-                myMacro.ShowDialog();
-                myMacro.Close();
+                myMacro42.ShowDialog();
+                myMacro42.Close();
                 this.Show();
             }
             else if(cbMacros.SelectedIndex == 2)
             {
-                Macros.Macro43 myMacro = new Macros.Macro43(listaEconomicos);
+                Macros.Macro43 myMacro43 = new Macros.Macro43(listaEconomicos);
                 this.Hide();
-                myMacro.ShowDialog();
-                myMacro.Close();
+                myMacro43.ShowDialog();
+                myMacro43.Close();
                 this.Show();
             }
         }
