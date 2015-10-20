@@ -55,38 +55,38 @@ namespace Envio_de_macros.Macros
                 + ", 42"
                 + ", NULL"
                 + ", '"
-                    + txtRemolque.Text + ";"
-                    + txtOrigenLugar.Text + ";"
-                    + txtOrigenCliente.Text + ";"
-                    + txtOrigenDomicilio1.Text + ";"
-                    + txtOrigenDomicilio2.Text + ";"
-                    + txtOrigenDomicilio3.Text + ";"
-                    + txtOrigenFecha1.Text + ";"
-                    + txtOrigenFecha2.Text + ";"
-                    + txtOrigenFecha3.Text + ";"
-                    + txtOrigenHora1.Text + ";"
-                    + txtOrigenHora2.Text + ";"
-                    + txtEscalaLugar1.Text + ";"
-                    + txtEscalaLugar2.Text + ";"
-                    + txtEscalaLugar3.Text + ";"
-                    + txtDestinoLugar.Text + ";"
-                    + txtDestinoCliente.Text + ";"
-                    + txtDestinoDomicilio1.Text + ";"
-                    + txtDestinoDomicilio2.Text + ";"
-                    + txtDestinoDomicilio3.Text + ";"
-                    + txtDestinoFecha1.Text + ";"
-                    + txtDestinoFecha2.Text + ";"
-                    + txtDestinoFecha3.Text + ";"
-                    + txtDestinoHora1.Text + ";"
-                    + txtDestinoHora2.Text + ";"
-                    + txtDestinoTiempo1.Text + ";"
-                    + txtDestinoTiempo2.Text + ";"
-                    + txtDestinoRuta1.Text + ";"
-                    + txtDestinoRuta2.Text + ";"
-                    + txtDestinoComentarios1.Text + ";"
-                    + txtDestinoComentarios2.Text + ";"
-                    + txtDestinoComentarios3.Text + ";"
-                    + txtEnvía.Text
+                    + txtRemolque.Text + ";"            //1
+                    + txtOrigenLugar.Text + ";"         //2
+                    + txtOrigenCliente.Text + ";"       //3
+                    + txtOrigenDomicilio1.Text + ";"    //4
+                    + txtOrigenDomicilio2.Text + ";"    //5
+                    + txtOrigenDomicilio3.Text + ";"    //6
+                    + txtOrigenFecha1.Text 
+                        + txtOrigenFecha2.Text 
+                        + txtOrigenFecha3.Text + ";"    //7
+                    + txtOrigenHora1.Text
+                        + txtOrigenHora2.Text + ";"     //8
+                    + txtEscalaLugar1.Text + ";"        //9
+                    + txtEscalaLugar2.Text + ";"        //10
+                    + txtEscalaLugar3.Text + ";"        //11
+                    + txtDestinoLugar.Text + ";"        //12
+                    + txtDestinoCliente.Text + ";"      //13
+                    + txtDestinoDomicilio1.Text + ";"   //14
+                    + txtDestinoDomicilio2.Text + ";"   //15
+                    + txtDestinoDomicilio3.Text + ";"   //16
+                    + txtDestinoFecha1.Text 
+                        + txtDestinoFecha2.Text 
+                        + txtDestinoFecha3.Text + ";"   //17
+                    + txtDestinoHora1.Text 
+                        + txtDestinoHora2.Text + ";"    //18
+                    + txtDestinoTiempo1.Text 
+                        + txtDestinoTiempo2.Text + ";"  //19
+                    + txtDestinoRuta1.Text + ";"        //20
+                    + txtDestinoRuta2.Text + ";"        //21
+                    + txtDestinoComentarios1.Text + ";" //22
+                    + txtDestinoComentarios2.Text + ";" //23
+                    + txtDestinoComentarios3.Text + ";" //24
+                    + txtEnvía.Text                     //25
                 + "'"
                 + ", NULL"
                 + ")";
