@@ -26,8 +26,8 @@ namespace Envio_de_macros.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=10.88.4.182;Initial Catalog=Potosinos3;User ID=supervisor;Password=sq" +
-            "lServer1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=STOCK-052\\JARIVERAI;Initial Catalog=Potosinos;User ID=supervisor;Pass" +
+            "word=sqlServer1")]
         public string Potosinos3ConnectionString {
             get {
                 return ((string)(this["Potosinos3ConnectionString"]));
