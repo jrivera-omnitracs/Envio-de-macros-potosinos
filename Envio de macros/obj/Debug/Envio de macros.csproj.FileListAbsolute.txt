@@ -19,3 +19,20 @@ C:\Users\Jorge Alberto Rivera\Documents\GitHub\Envio-de-macros-potosinos\Envio d
 C:\Users\Jorge Alberto Rivera\Documents\GitHub\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Macros.Macro43.resources
 C:\Users\Jorge Alberto Rivera\Documents\GitHub\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Properties.Resources.resources
 C:\Users\Jorge Alberto Rivera\Documents\GitHub\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio de macros.csproj.GenerateResource.Cache
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\Envio de macros.exe.config
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio de macros.exe
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio de macros.pdb
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\Envio de macros.exe
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\Envio de macros.pdb
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\mscorlib.dll
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\es\mscorlib.resources.dll
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\normidna.nlp
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\normnfc.nlp
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\normnfd.nlp
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\normnfkc.nlp
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\bin\Debug\normnfkd.nlp
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Form1.resources
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Macros.Macro42.resources
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Macros.Macro43.resources
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Properties.Resources.resources
+C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio de macros.csproj.GenerateResource.Cache
