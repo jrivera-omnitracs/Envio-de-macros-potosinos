@@ -131,7 +131,7 @@
             this.txtRemolque.MaxLength = 8;
             this.txtRemolque.Name = "txtRemolque";
             this.txtRemolque.Size = new System.Drawing.Size(220, 20);
-            this.txtRemolque.TabIndex = 3;
+            this.txtRemolque.TabIndex = 1;
             // 
             // label4
             // 
@@ -157,7 +157,7 @@
             this.txtOrigenLugar.MaxLength = 25;
             this.txtOrigenLugar.Name = "txtOrigenLugar";
             this.txtOrigenLugar.Size = new System.Drawing.Size(220, 20);
-            this.txtOrigenLugar.TabIndex = 6;
+            this.txtOrigenLugar.TabIndex = 2;
             // 
             // txtOrigenCliente
             // 
@@ -165,7 +165,7 @@
             this.txtOrigenCliente.MaxLength = 25;
             this.txtOrigenCliente.Name = "txtOrigenCliente";
             this.txtOrigenCliente.Size = new System.Drawing.Size(220, 20);
-            this.txtOrigenCliente.TabIndex = 7;
+            this.txtOrigenCliente.TabIndex = 3;
             // 
             // label6
             // 
@@ -191,7 +191,7 @@
             this.txtOrigenDomicilio1.MaxLength = 25;
             this.txtOrigenDomicilio1.Name = "txtOrigenDomicilio1";
             this.txtOrigenDomicilio1.Size = new System.Drawing.Size(220, 20);
-            this.txtOrigenDomicilio1.TabIndex = 10;
+            this.txtOrigenDomicilio1.TabIndex = 4;
             // 
             // txtOrigenDomicilio2
             // 
@@ -199,7 +199,7 @@
             this.txtOrigenDomicilio2.MaxLength = 37;
             this.txtOrigenDomicilio2.Name = "txtOrigenDomicilio2";
             this.txtOrigenDomicilio2.Size = new System.Drawing.Size(220, 20);
-            this.txtOrigenDomicilio2.TabIndex = 11;
+            this.txtOrigenDomicilio2.TabIndex = 5;
             // 
             // txtOrigenDomicilio3
             // 
@@ -207,7 +207,7 @@
             this.txtOrigenDomicilio3.MaxLength = 37;
             this.txtOrigenDomicilio3.Name = "txtOrigenDomicilio3";
             this.txtOrigenDomicilio3.Size = new System.Drawing.Size(220, 20);
-            this.txtOrigenDomicilio3.TabIndex = 12;
+            this.txtOrigenDomicilio3.TabIndex = 6;
             // 
             // label8
             // 
@@ -224,7 +224,7 @@
             this.txtOrigenFecha1.MaxLength = 2;
             this.txtOrigenFecha1.Name = "txtOrigenFecha1";
             this.txtOrigenFecha1.Size = new System.Drawing.Size(20, 20);
-            this.txtOrigenFecha1.TabIndex = 14;
+            this.txtOrigenFecha1.TabIndex = 7;
             // 
             // txtOrigenFecha3
             // 
@@ -232,7 +232,7 @@
             this.txtOrigenFecha3.MaxLength = 2;
             this.txtOrigenFecha3.Name = "txtOrigenFecha3";
             this.txtOrigenFecha3.Size = new System.Drawing.Size(20, 20);
-            this.txtOrigenFecha3.TabIndex = 15;
+            this.txtOrigenFecha3.TabIndex = 9;
             // 
             // txtOrigenFecha2
             // 
@@ -240,7 +240,7 @@
             this.txtOrigenFecha2.MaxLength = 2;
             this.txtOrigenFecha2.Name = "txtOrigenFecha2";
             this.txtOrigenFecha2.Size = new System.Drawing.Size(20, 20);
-            this.txtOrigenFecha2.TabIndex = 16;
+            this.txtOrigenFecha2.TabIndex = 8;
             // 
             // txtOrigenHora1
             // 
@@ -248,7 +248,7 @@
             this.txtOrigenHora1.MaxLength = 2;
             this.txtOrigenHora1.Name = "txtOrigenHora1";
             this.txtOrigenHora1.Size = new System.Drawing.Size(20, 20);
-            this.txtOrigenHora1.TabIndex = 17;
+            this.txtOrigenHora1.TabIndex = 10;
             // 
             // txtOrigenHora2
             // 
@@ -256,7 +256,7 @@
             this.txtOrigenHora2.MaxLength = 2;
             this.txtOrigenHora2.Name = "txtOrigenHora2";
             this.txtOrigenHora2.Size = new System.Drawing.Size(20, 20);
-            this.txtOrigenHora2.TabIndex = 18;
+            this.txtOrigenHora2.TabIndex = 11;
             // 
             // label9
             // 
@@ -318,7 +318,7 @@
             this.txtEscalaLugar1.MaxLength = 30;
             this.txtEscalaLugar1.Name = "txtEscalaLugar1";
             this.txtEscalaLugar1.Size = new System.Drawing.Size(220, 20);
-            this.txtEscalaLugar1.TabIndex = 25;
+            this.txtEscalaLugar1.TabIndex = 12;
             // 
             // txtEscalaLugar2
             // 
@@ -326,7 +326,7 @@
             this.txtEscalaLugar2.MaxLength = 37;
             this.txtEscalaLugar2.Name = "txtEscalaLugar2";
             this.txtEscalaLugar2.Size = new System.Drawing.Size(220, 20);
-            this.txtEscalaLugar2.TabIndex = 26;
+            this.txtEscalaLugar2.TabIndex = 13;
             // 
             // txtEscalaLugar3
             // 
@@ -334,7 +334,7 @@
             this.txtEscalaLugar3.MaxLength = 37;
             this.txtEscalaLugar3.Name = "txtEscalaLugar3";
             this.txtEscalaLugar3.Size = new System.Drawing.Size(220, 20);
-            this.txtEscalaLugar3.TabIndex = 27;
+            this.txtEscalaLugar3.TabIndex = 14;
             // 
             // label15
             // 
@@ -351,7 +351,7 @@
             this.txtDestinoLugar.MaxLength = 30;
             this.txtDestinoLugar.Name = "txtDestinoLugar";
             this.txtDestinoLugar.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoLugar.TabIndex = 30;
+            this.txtDestinoLugar.TabIndex = 15;
             // 
             // label16
             // 
@@ -377,7 +377,7 @@
             this.txtDestinoCliente.MaxLength = 30;
             this.txtDestinoCliente.Name = "txtDestinoCliente";
             this.txtDestinoCliente.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoCliente.TabIndex = 32;
+            this.txtDestinoCliente.TabIndex = 16;
             // 
             // label18
             // 
@@ -394,7 +394,7 @@
             this.txtDestinoDomicilio1.MaxLength = 25;
             this.txtDestinoDomicilio1.Name = "txtDestinoDomicilio1";
             this.txtDestinoDomicilio1.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoDomicilio1.TabIndex = 25;
+            this.txtDestinoDomicilio1.TabIndex = 17;
             // 
             // txtDestinoDomicilio3
             // 
@@ -402,7 +402,7 @@
             this.txtDestinoDomicilio3.MaxLength = 37;
             this.txtDestinoDomicilio3.Name = "txtDestinoDomicilio3";
             this.txtDestinoDomicilio3.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoDomicilio3.TabIndex = 35;
+            this.txtDestinoDomicilio3.TabIndex = 19;
             // 
             // txtDestinoDomicilio2
             // 
@@ -410,7 +410,7 @@
             this.txtDestinoDomicilio2.MaxLength = 37;
             this.txtDestinoDomicilio2.Name = "txtDestinoDomicilio2";
             this.txtDestinoDomicilio2.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoDomicilio2.TabIndex = 34;
+            this.txtDestinoDomicilio2.TabIndex = 18;
             // 
             // label19
             // 
@@ -454,7 +454,7 @@
             this.txtDestinoHora2.MaxLength = 2;
             this.txtDestinoHora2.Name = "txtDestinoHora2";
             this.txtDestinoHora2.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoHora2.TabIndex = 41;
+            this.txtDestinoHora2.TabIndex = 24;
             // 
             // txtDestinoHora1
             // 
@@ -462,7 +462,7 @@
             this.txtDestinoHora1.MaxLength = 2;
             this.txtDestinoHora1.Name = "txtDestinoHora1";
             this.txtDestinoHora1.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoHora1.TabIndex = 40;
+            this.txtDestinoHora1.TabIndex = 23;
             // 
             // txtDestinoFecha2
             // 
@@ -470,7 +470,7 @@
             this.txtDestinoFecha2.MaxLength = 2;
             this.txtDestinoFecha2.Name = "txtDestinoFecha2";
             this.txtDestinoFecha2.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoFecha2.TabIndex = 39;
+            this.txtDestinoFecha2.TabIndex = 21;
             // 
             // txtDestinoFecha3
             // 
@@ -478,7 +478,7 @@
             this.txtDestinoFecha3.MaxLength = 2;
             this.txtDestinoFecha3.Name = "txtDestinoFecha3";
             this.txtDestinoFecha3.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoFecha3.TabIndex = 38;
+            this.txtDestinoFecha3.TabIndex = 22;
             // 
             // txtDestinoFecha1
             // 
@@ -486,7 +486,7 @@
             this.txtDestinoFecha1.MaxLength = 2;
             this.txtDestinoFecha1.Name = "txtDestinoFecha1";
             this.txtDestinoFecha1.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoFecha1.TabIndex = 37;
+            this.txtDestinoFecha1.TabIndex = 20;
             // 
             // label23
             // 
@@ -521,7 +521,7 @@
             this.txtDestinoTiempo2.MaxLength = 2;
             this.txtDestinoTiempo2.Name = "txtDestinoTiempo2";
             this.txtDestinoTiempo2.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoTiempo2.TabIndex = 47;
+            this.txtDestinoTiempo2.TabIndex = 26;
             // 
             // txtDestinoTiempo1
             // 
@@ -529,7 +529,7 @@
             this.txtDestinoTiempo1.MaxLength = 2;
             this.txtDestinoTiempo1.Name = "txtDestinoTiempo1";
             this.txtDestinoTiempo1.Size = new System.Drawing.Size(20, 20);
-            this.txtDestinoTiempo1.TabIndex = 46;
+            this.txtDestinoTiempo1.TabIndex = 25;
             // 
             // label26
             // 
@@ -546,7 +546,7 @@
             this.txtDestinoRuta1.MaxLength = 30;
             this.txtDestinoRuta1.Name = "txtDestinoRuta1";
             this.txtDestinoRuta1.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoRuta1.TabIndex = 52;
+            this.txtDestinoRuta1.TabIndex = 27;
             // 
             // label27
             // 
@@ -563,7 +563,7 @@
             this.txtDestinoRuta2.MaxLength = 30;
             this.txtDestinoRuta2.Name = "txtDestinoRuta2";
             this.txtDestinoRuta2.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoRuta2.TabIndex = 53;
+            this.txtDestinoRuta2.TabIndex = 28;
             // 
             // txtDestinoComentarios3
             // 
@@ -571,7 +571,7 @@
             this.txtDestinoComentarios3.MaxLength = 37;
             this.txtDestinoComentarios3.Name = "txtDestinoComentarios3";
             this.txtDestinoComentarios3.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoComentarios3.TabIndex = 57;
+            this.txtDestinoComentarios3.TabIndex = 31;
             // 
             // txtDestinoComentarios2
             // 
@@ -579,7 +579,7 @@
             this.txtDestinoComentarios2.MaxLength = 37;
             this.txtDestinoComentarios2.Name = "txtDestinoComentarios2";
             this.txtDestinoComentarios2.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoComentarios2.TabIndex = 56;
+            this.txtDestinoComentarios2.TabIndex = 30;
             // 
             // txtDestinoComentarios1
             // 
@@ -587,7 +587,7 @@
             this.txtDestinoComentarios1.MaxLength = 25;
             this.txtDestinoComentarios1.Name = "txtDestinoComentarios1";
             this.txtDestinoComentarios1.Size = new System.Drawing.Size(220, 20);
-            this.txtDestinoComentarios1.TabIndex = 54;
+            this.txtDestinoComentarios1.TabIndex = 29;
             // 
             // label28
             // 
@@ -631,12 +631,12 @@
             this.txtEnvía.MaxLength = 30;
             this.txtEnvía.Name = "txtEnvía";
             this.txtEnvía.Size = new System.Drawing.Size(220, 20);
-            this.txtEnvía.TabIndex = 61;
+            this.txtEnvía.TabIndex = 32;
             // 
             // btnEnviar
             // 
             this.btnEnviar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnEnviar.Location = new System.Drawing.Point(331, 893);
+            this.btnEnviar.Location = new System.Drawing.Point(314, 893);
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(75, 23);
             this.btnEnviar.TabIndex = 62;

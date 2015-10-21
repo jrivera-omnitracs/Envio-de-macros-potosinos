@@ -114,6 +114,7 @@ namespace Envio_de_macros.Macros
         private void EnviarCorreo(string q)
         {
             DatabaseHelper.execSPCreate(q);
+            this.Close();
         }
     }
 }
