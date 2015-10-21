@@ -68,6 +68,7 @@ namespace Envio_de_macros.Macros
                 + ")";
                 DatabaseHelper.execSPCreate(query);
                 //MessageBox.Show(query);
+                this.Close();
             }
             
         }
