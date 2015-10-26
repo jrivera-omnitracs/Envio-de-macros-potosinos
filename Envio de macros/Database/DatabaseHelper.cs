@@ -128,8 +128,9 @@ namespace Envio_de_macros.Persistencia
         /// del usuario en la BD</param>
         /// <returns>Valor boolean. True si existe el ususario y las credenciales son correctas.
         /// False en caso contrario</returns>
-        public static bool execSPLogin(string sp)
+        public static bool execSPLogin(string tabla, string usuario, string password)
         {
+            string sp = "SELECT COUNT (*) FROM " + tabla + " WHERE usuario = '" + usuario + "' AND pass = '" + password + "'";
             bool login = false;
             using (SqlConnection conn = Connection.GetDBConnection())
             {
@@ -146,14 +147,6 @@ namespace Envio_de_macros.Persistencia
                         break;
                     }
                     conn.Close();
-                    if (login)
-                    {
-                        Console.WriteLine("Bienvenido");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Verifica tus datos");
-                    }
                 }
                 catch (Exception ex)
                 {

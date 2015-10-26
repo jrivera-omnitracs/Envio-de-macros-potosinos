@@ -36,3 +36,4 @@ C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debu
 C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Macros.Macro43.resources
 C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Properties.Resources.resources
 C:\Users\En reserva 4\Desktop\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio de macros.csproj.GenerateResource.Cache
+C:\Users\Jorge Alberto Rivera\Documents\GitHub\Envio-de-macros-potosinos\Envio de macros\obj\Debug\Envio_de_macros.Login.resources
