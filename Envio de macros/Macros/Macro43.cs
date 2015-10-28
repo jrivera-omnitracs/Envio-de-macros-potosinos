@@ -58,6 +58,7 @@ namespace Envio_de_macros.Macros
                 + ", NULL"
                 + ", '" 
                     + txtMensaje1.Text + ";"
+                    + txtOrdenDeTrabajo.Text + ";"
                     + txtMensaje2.Text + ";"
                     + txtMensaje3.Text + ";"
                     + txtMensaje4.Text + ";"

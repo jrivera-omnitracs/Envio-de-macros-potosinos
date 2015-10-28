@@ -70,6 +70,8 @@ namespace Envio_de_macros.Macros
                     + ", 42"
                     + ", NULL"
                     + ", '"
+                        + txtOT.Text + ";"
+                        + txtRemision.Text + ";"
                         + txtRemolque.Text + ";"            //1
                         + txtOrigenLugar.Text + ";"         //2
                         + txtOrigenCliente.Text + ";"       //3
@@ -116,5 +118,6 @@ namespace Envio_de_macros.Macros
             DatabaseHelper.execSPCreate(q);
             this.Close();
         }
+
     }
 }
