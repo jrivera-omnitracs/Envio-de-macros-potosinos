@@ -46,6 +46,8 @@
             this.label10 = new System.Windows.Forms.Label();
             this.txtMensaje6 = new System.Windows.Forms.TextBox();
             this.btnEnviar = new System.Windows.Forms.Button();
+            this.txtOrdenDeTrabajo = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -125,7 +127,7 @@
             // 
             // txtMensaje2
             // 
-            this.txtMensaje2.Location = new System.Drawing.Point(120, 155);
+            this.txtMensaje2.Location = new System.Drawing.Point(120, 180);
             this.txtMensaje2.MaxLength = 37;
             this.txtMensaje2.Name = "txtMensaje2";
             this.txtMensaje2.Size = new System.Drawing.Size(220, 20);
@@ -133,7 +135,7 @@
             // 
             // txtMensaje3
             // 
-            this.txtMensaje3.Location = new System.Drawing.Point(120, 182);
+            this.txtMensaje3.Location = new System.Drawing.Point(120, 207);
             this.txtMensaje3.MaxLength = 37;
             this.txtMensaje3.Name = "txtMensaje3";
             this.txtMensaje3.Size = new System.Drawing.Size(220, 20);
@@ -141,7 +143,7 @@
             // 
             // txtMensaje4
             // 
-            this.txtMensaje4.Location = new System.Drawing.Point(120, 209);
+            this.txtMensaje4.Location = new System.Drawing.Point(120, 234);
             this.txtMensaje4.MaxLength = 37;
             this.txtMensaje4.Name = "txtMensaje4";
             this.txtMensaje4.Size = new System.Drawing.Size(220, 20);
@@ -149,7 +151,7 @@
             // 
             // label7
             // 
-            this.label7.Location = new System.Drawing.Point(12, 240);
+            this.label7.Location = new System.Drawing.Point(12, 265);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(98, 43);
             this.label7.TabIndex = 12;
@@ -157,7 +159,7 @@
             // 
             // txtMensaje5
             // 
-            this.txtMensaje5.Location = new System.Drawing.Point(120, 263);
+            this.txtMensaje5.Location = new System.Drawing.Point(120, 288);
             this.txtMensaje5.MaxLength = 30;
             this.txtMensaje5.Name = "txtMensaje5";
             this.txtMensaje5.Size = new System.Drawing.Size(220, 20);
@@ -166,7 +168,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(12, 297);
+            this.label8.Location = new System.Drawing.Point(12, 322);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(167, 13);
             this.label8.TabIndex = 14;
@@ -175,7 +177,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(12, 313);
+            this.label9.Location = new System.Drawing.Point(12, 338);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(57, 13);
             this.label9.TabIndex = 15;
@@ -184,7 +186,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(12, 328);
+            this.label10.Location = new System.Drawing.Point(12, 353);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(36, 13);
             this.label10.TabIndex = 16;
@@ -192,7 +194,7 @@
             // 
             // txtMensaje6
             // 
-            this.txtMensaje6.Location = new System.Drawing.Point(120, 320);
+            this.txtMensaje6.Location = new System.Drawing.Point(120, 345);
             this.txtMensaje6.MaxLength = 32;
             this.txtMensaje6.Name = "txtMensaje6";
             this.txtMensaje6.Size = new System.Drawing.Size(220, 20);
@@ -200,7 +202,7 @@
             // 
             // btnEnviar
             // 
-            this.btnEnviar.Location = new System.Drawing.Point(324, 367);
+            this.btnEnviar.Location = new System.Drawing.Point(324, 392);
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(75, 23);
             this.btnEnviar.TabIndex = 18;
@@ -208,11 +210,30 @@
             this.btnEnviar.UseVisualStyleBackColor = true;
             this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
+            // txtOrdenDeTrabajo
+            // 
+            this.txtOrdenDeTrabajo.Location = new System.Drawing.Point(120, 154);
+            this.txtOrdenDeTrabajo.MaxLength = 14;
+            this.txtOrdenDeTrabajo.Name = "txtOrdenDeTrabajo";
+            this.txtOrdenDeTrabajo.Size = new System.Drawing.Size(220, 20);
+            this.txtOrdenDeTrabajo.TabIndex = 19;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(12, 157);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(90, 13);
+            this.label11.TabIndex = 20;
+            this.label11.Text = "Orden de Trabajo";
+            // 
             // Macro43
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(411, 402);
+            this.ClientSize = new System.Drawing.Size(411, 433);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.txtOrdenDeTrabajo);
             this.Controls.Add(this.btnEnviar);
             this.Controls.Add(this.txtMensaje6);
             this.Controls.Add(this.label10);
@@ -258,5 +279,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.TextBox txtMensaje6;
         private System.Windows.Forms.Button btnEnviar;
+        private System.Windows.Forms.TextBox txtOrdenDeTrabajo;
+        private System.Windows.Forms.Label label11;
     }
 }
