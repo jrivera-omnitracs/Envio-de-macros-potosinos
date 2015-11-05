@@ -66,5 +66,11 @@ namespace Envio_de_macros
                 this.Show();
             }
         }
+
+        private void btnBorrar_Click(object sender, EventArgs e)
+        {
+            txtListaEconomicos.Text = "";
+            listaEconomicos.Clear();
+        }
     }
 }
