@@ -35,6 +35,7 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.btnIr = new System.Windows.Forms.Button();
             this.cbMacros = new System.Windows.Forms.ComboBox();
+            this.btnBorrar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -43,6 +44,7 @@
             // 
             this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.Controls.Add(this.btnBorrar);
             this.groupBox1.Controls.Add(this.txtListaEconomicos);
             this.groupBox1.Controls.Add(this.btnAgregar);
             this.groupBox1.Controls.Add(this.txtEconomico);
@@ -118,6 +120,16 @@
             this.cbMacros.Size = new System.Drawing.Size(212, 21);
             this.cbMacros.TabIndex = 0;
             // 
+            // btnBorrar
+            // 
+            this.btnBorrar.Location = new System.Drawing.Point(135, 46);
+            this.btnBorrar.Name = "btnBorrar";
+            this.btnBorrar.Size = new System.Drawing.Size(21, 23);
+            this.btnBorrar.TabIndex = 4;
+            this.btnBorrar.Text = "--";
+            this.btnBorrar.UseVisualStyleBackColor = true;
+            this.btnBorrar.Click += new System.EventHandler(this.btnBorrar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -144,6 +156,7 @@
         private System.Windows.Forms.TextBox txtEconomico;
         private System.Windows.Forms.Button btnIr;
         private System.Windows.Forms.ComboBox cbMacros;
+        private System.Windows.Forms.Button btnBorrar;
     }
 }
 
